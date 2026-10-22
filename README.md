@@ -118,35 +118,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&theme=tokyonight&hide_border=true&background=0F0C09&stroke=F6A23C&ring=F6A23C&fire=E07B1F&currStreakLabel=F6A23C" alt="Streak Stats"/>
 </p>
 
-<!-- ──────────────────────────  CONTRIBUTION GRAPH  ───────────────────────── -->
+<!-- ───────────────────────────  ACTIVITY GRAPH  ─────────────────────────── -->
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/F6A23C/drajj-0011" width="100%" alt="Debraj's contribution graph"/>
-</p>
-
-### 🌟 GitHub Highlights
+### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drajj-0011&theme=gruvbox" alt="Debraj's GitHub profile summary"/>
+  <img src="https://readme-activity-graph.vercel.app/graph?username=drajj-0011&bg_color=0F0C09&color=F6A23C&line=F6A23C&point=FFE8CC&area_color=F6A23C&area=true&hide_border=true&title_color=F6A23C" alt="Debraj's Activity Graph"/>
 </p>
-
-<!-- 📈 OPTIONAL — self-hosted activity graph.
-     The public github-readme-activity-graph.vercel.app instance is currently
-     returning "DEPLOYMENT_DISABLED", so it is commented out to avoid a broken image.
-     Deploy your own copy, then uncomment and replace the URL:
-<p align="center">
-  <img src="https://YOUR-ACTIVITY-GRAPH.vercel.app/graph?username=drajj-0011&theme=gruvbox&hide_border=true&area=true&days=40&custom_title=Debraj's%20Activity" alt="activity graph"/>
-</p>
--->
 
 <!-- ───────────────────────  CONTRIBUTION SNAKE 🐍  ───────────────────────── -->
 
 ### 🐍 Contribution Snake
-
-<!-- The snake needs GitHub Actions to run once. Until then GitHub shows a broken
-     image because the "output" branch does not exist yet. See the Snake Setup steps. -->
 
 <p align="center">
   <picture>
