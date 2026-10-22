@@ -1,131 +1,160 @@
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!--        🍂  WELCOME TO MY CORNER OF THE INTERNET  ·  golden hour vibes        -->
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3E5A54,6B8A7B,A8C3B9,E7E0C6&height=170&section=header&text=Hey%20There!%20Im%20Debraj%20Dubey%20👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Coder%20🌿%20•%20Learner%20•%20Explorer&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120d07,100:e07b1f&height=200&section=header&text=Hey%20There!%20I'm%20Debraj%20Dubey%20%F0%9F%8D%82&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=32" width="100%" alt="Hey There! I'm Debraj Dubey"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6B8A7B&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Debraj%20Dubey+%F0%9F%8C%BF;Coder+%7C+Learner+%7C+Dreamer+✨;DSA+%E2%80%A2+Web+Dev+%E2%80%A2+Curious+Mind+💭;Welcome+to+my+little+corner+of+GitHub+🌧️" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F6A23C&center=true&vCenter=true&random=false&width=620&lines=Hey%20there%2C%20I'm%20Debraj%20Dubey%20%F0%9F%91%8B;Coder%20%F0%9F%92%BB;Tech%20Stack%3A%20C%2B%2B%2C%20Python%2C%20Java%2C%20MySQL%2C%20MERN%20%F0%9F%9A%80;Building%20AI%20%26%20Energy%20Analytics%20Solutions%20%E2%9A%A1" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=drajj-0011&label=Profile%20Views&color=6B8A7B&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=drajj-0011&label=Profile%20Views&color=orange&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
-  <a href="https://github.com/drajj-0011?tab=followers"><img src="https://img.shields.io/github/followers/drajj-0011?label=Followers&style=flat-square&color=6B8A7B" alt="Followers"/></a>
+  <a href="https://github.com/drajj-0011?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/drajj-0011?label=Followers&style=for-the-badge&color=yellow" alt="Followers"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/raaj_10" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Codeforces-raaj_10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
 </p>
 
----
+<br/>
+
+<!-- ─────────────────────────────  ABOUT ME  ───────────────────────────── -->
+
+### 🧑‍💻 About Me
+
+> *"Every expert was once a beginner who simply refused to give up."*
+
+- 🚀 **Current Project:** AI-driven **smart energy analytics & optimization** system for sustainable buildings
+- 💻 **Core Interests:** Data Structures & Algorithms · Full-Stack Development · Artificial Intelligence
+- 🌱 **Currently Learning:** System Design · Cloud Computing · MLOps
+- 💬 **Ask me about:** C++, Java, Python, JavaScript, React & Backend Development
+- ⚡ **Fun fact:** Code compiles on the first try? Something is definitely suspicious… 😂
+
+<br/>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4eThpdDZxYTJndnQ2bDNxcTBqamVyeTJvN2d1M253bzdpYjdibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU97uV3UyP0ly/giphy.gif" width="100%" style="border-radius:12px;" alt="aesthetic ghibli nature banner" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4eThpdDZxYTJndnQ2bDNxcTBqamVyeTJvN2d1M253bzdpYjdibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU97uV3UyP0ly/giphy.gif" width="100%" alt="sunlight through an autumn forest"/>
 </p>
-### 🍃 About Me
 
-- 👋 Hi, I'm **Debraj Dubey** — a coder who loves learning and building small things with care
-- 🌱 Currently exploring **DSA, Web Development, and new technologies**
-- 💡 Interested in **clean code, aesthetic design & problem solving**
-- 🎯 Goal: *grow a little every day* — step by step
-- 🌧️ Vibe: calm mind, late nights, tea & code ☕
-- ⚡ Fun fact: *Code compiles on first try? Something is definitely suspicious.* 😅
+<br/>
 
-<!-- One aesthetic banner — width 100% as you asked -->
-
----
+<!-- ───────────────────────────  CONNECT WITH ME  ────────────────────────── -->
 
 ### 🌐 Connect With Me
 
-<p>
-
-💼 **LinkedIn:** [Debraj Dubey](https://www.linkedin.com/in/debraj-dubey-66b42032b) &nbsp;&nbsp;
-💻 **Codeforces:** [raaj_10](https://codeforces.com/profile/raaj_10) &nbsp;&nbsp;
-📸 **Instagram:** [@raajj.10](https://instagram.com/raajj.10) &nbsp;&nbsp;
-✉️ **Personal Email:** [debrajdubey0011@gmail.com](mailto:debrajdubey0011@gmail.com) &nbsp;&nbsp;
-🎓 **Academic Email:** [Alliance University](mailto:debrajbtech24@ced.alliance.edu.in)
-
+<p align="center">
+<a href="https://www.linkedin.com/in/debraj-dubey-66b42032b" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-Debraj_Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/raaj_10" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Codeforces-raaj_10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/raajj.10" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%B8%20Instagram-raajj.10-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:debrajdubey0011@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Personal_Email-debrajdubey0011@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
+  </a>
+  &nbsp;
+  <a href="mailto:debrajbtech24@ced.alliance.edu.in" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%93%20Academic_Email-Alliance_Univ-003366?style=for-the-badge&logo=google-messages&logoColor=white" alt="Academic Email"/>
+  </a>
 </p>
 
----
+<!-- ──────────────────────────  LANGUAGES & TOOLS  ───────────────────────── -->
 
 ### 🛠️ Languages & Tech Stack
 
 <p align="center">
-
-**💻 Programming Languages**<br/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-<br/><br/>
-
-**🌐 Web & Frameworks**<br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-<br/><br/>
-
-**🗄️ Database & Developer Tools**<br/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-
+  <strong>💻 Languages I Know</strong><br/><br/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode&perline=7" />
+  <strong>🌐 Web & Frameworks</strong><br/><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
----
-
-### 📊 GitHub Stats
+<p align="center">
+  <strong>🗄️ Databases</strong><br/><br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&theme=transparent&hide_border=true&title_color=6B8A7B&icon_color=6B8A7B&text_color=2F3D3A&bg_color=00000000" alt="GitHub Stats"/>
+  <strong>🛠️ Developer Tools</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+<!-- ────────────────────────  GITHUB STATS & STREAKS  ────────────────────── -->
+
+### 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C09&title_color=F6A23C&icon_color=F6A23C&text_color=FFE8CC&count_private=true" alt="GitHub Stats"/>
   &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&theme=transparent&hide_border=true&title_color=6B8A7B&text_color=2F3D3A&bg_color=00000000&langs_count=6" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&langs_count=6" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&theme=transparent&hide_border=true&background=00000000&stroke=6B8A7B&ring=6B8A7B&fire=6B8A7B&currStreakLabel=6B8A7B&currStreakNum=2F3D3A&sideNums=2F3D3A&sideLabels=2F3D3A" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&theme=tokyonight&hide_border=true&background=0F0C09&stroke=F6A23C&ring=F6A23C&fire=E07B1F&currStreakLabel=F6A23C" alt="Streak Stats"/>
 </p>
+
+<!-- ───────────────────────────  ACTIVITY GRAPH  ─────────────────────────── -->
 
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drajj-0011&bg_color=A8C3B900&color=6B8A7B&line=6B8A7B&point=3E5A54&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drajj-0011&bg_color=0F0C09&color=F6A23C&line=F6A23C&point=FFE8CC&area_color=F6A23C&area=true&hide_border=true" alt="Debraj's Activity Graph"/>
 </p>
+
+<!-- ───────────────────────  CONTRIBUTION SNAKE 🐍  ───────────────────────── -->
 
 ### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </p>
 
-> Add the snake once with [Platane/snk](https://github.com/Platane/snk) workflow — it updates automatically.
+<!-- ────────────────────────────  DAILY QUOTE  ───────────────────────────── -->
 
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=Small+steps+every+day+lead+to+big+results+🌱&author=Debraj%20Dubey" alt="Quote"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+### 💡 Daily Dev Quote
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3E5A54,6B8A7B,A8C3B9,E7E0C6&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20🌿&fontSize=22&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Made%20with%20☕%20%26%20a%20lot%20of%20curiosity%20by%20Debraj%20Dubey&descAlignY=75" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote"/>
 </p>
-README.md • 7 KB
-Copy Markdown
-Download
-🌿 Minimal readme for Debraj Dubey — Ghibli rain palette • one banner • humble coder vibe
-Made with calm • not hype
+
+<!-- ─────────────────────────  THANKS FOR VISITING  ──────────────────────── -->
+
+<div align="center">
+  <h3>💛 Thanks for visiting my profile!</h3>
+  <p><em>If something here made you smile, consider leaving a ⭐ on a repo or saying hello — have a wonderful day! ☀️</em></p>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120d07,100:e07b1f&height=120&section=footer" width="100%" alt="footer banner"/>
+</p>
