@@ -1,58 +1,4 @@
-🌿
-README STUDIO SIMPLE • GHIBLI • CALM
-Minimal aesthetic — as you asked
-Copy README
-Download
-✨ UPDATED AS PER YOUR NOTE — SIMPLE & AESTHETIC
-Clean, quiet & Ghibli-soft
-Removed "Software Developer" & "Competitive Programmer" labels — now it's just Debraj Dubey, coder. One beautiful full-width banner, emoji contacts, HTML/CSS/MySQL added, and colors picked directly from your two GIFs.
-Thanks for visiting my profile 🌿 added in footer.
 
-1 GIF • width 100%
-HTML • CSS • MySQL added
-💼💻📸✉️ emoji contacts
-Banner choice
-pick your 100% width gif
-gif1
-🌧️ Train • Rainy
-gif2
-🍃 Forest • Calm
-Using
-Ghibli Train
-as About Me banner
-🎨 Palette — from your GIFs
-Soft sage, rain-blue & warm paper — no neon, no flashy animations.
-
-#3E5A54
-Deep Moss
-#6B8A7B
-Sage
-#A8C3B9
-Mist
-#E7E0C6
-Paper
-Capsule & badges use
-#6B8A7B
-PERSONALIZE
-GitHub username
-drajj-0011
-Show Stats
-Snake 🐍
-What changed?
-No big animations — only one full-width aesthetic GIF under About Me
-Title is now just your name + coder — humble & real
-Contacts use emojis: 💼 💻 📸 ✉️ 🎓
-Added HTML, CSS, MySQL + skillicons
-Footer says Thanks for visiting! in soft Ghibli gradient
-✨ Keep it calm
-Your README now feels like your GIFs — rainy, soft, paper-textured. No shouting badges, just flat-square muted tones.
-
-Copy
-Download
-Preview
-Raw Markdown
-GitHub-ready • paste it as README.md
-Copy
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3E5A54,6B8A7B,A8C3B9,E7E0C6&height=170&section=header&text=Hey%20There!%20Im%20Debraj%20Dubey%20👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Coder%20🌿%20•%20Learner%20•%20Explorer&descAlignY=58" />
 </p>
@@ -69,6 +15,9 @@ Copy
 
 ---
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4eThpdDZxYTJndnQ2bDNxcTBqamVyeTJvN2d1M253bzdpYjdibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU97uV3UyP0ly/giphy.gif" width="100%" style="border-radius:12px;" alt="aesthetic ghibli nature banner" />
+</p>
 ### 🍃 About Me
 
 - 👋 Hi, I'm **Debraj Dubey** — a coder who loves learning and building small things with care
@@ -79,9 +28,6 @@ Copy
 - ⚡ Fun fact: *Code compiles on first try? Something is definitely suspicious.* 😅
 
 <!-- One aesthetic banner — width 100% as you asked -->
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4eThpdDZxYTJndnQ2bDNxcTBqamVyeTJvN2d1M253bzdpYjdibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU97uV3UyP0ly/giphy.gif" width="100%" style="border-radius:12px;" alt="aesthetic ghibli nature banner" />
-</p>
 
 ---
 
