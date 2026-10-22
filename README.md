@@ -3,8 +3,10 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120d07,100:e07b1f&height=200&section=header&text=Hey%20There!%20I'm%20Debraj%20Dubey%20%F0%9F%8D%82&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=32" width="100%" alt="Hey There! I'm Debraj Dubey"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wMnk3NjlsNHJpNWNzdmg0NnZ2Znk3bWk2Nmt0cDN3OWkzdGg1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5PGOG2uWtJikU/giphy.gif" width="85%" alt="a calm golden landscape"/>
 </p>
+
+<br/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F6A23C&center=true&vCenter=true&random=false&width=620&lines=Hey%20there%2C%20I'm%20Debraj%20Dubey%20%F0%9F%91%8B;Coder%20%F0%9F%92%BB;Tech%20Stack%3A%20C%2B%2B%2C%20Python%2C%20Java%2C%20MySQL%2C%20MERN%20%F0%9F%9A%80;Building%20AI%20%26%20Energy%20Analytics%20Solutions%20%E2%9A%A1" alt="Typing SVG"/>
@@ -22,7 +24,9 @@
   </a>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=FFE8CC&center=true&vCenter=true&random=false&width=460&lines=%F0%9F%8D%82+golden+hour+%2B+clean+code+%2B+curiosity;%F0%9F%8C%BF+learning+something+new+every+day;%F0%9F%92%9B+thanks+for+stopping+by" alt="vibe line"/>
+</p>
 
 <!-- ─────────────────────────────  ABOUT ME  ───────────────────────────── -->
 
@@ -39,10 +43,14 @@
 <br/>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4eThpdDZxYTJndnQ2bDNxcTBqamVyeTJvN2d1M253bzdpYjdibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU97uV3UyP0ly/giphy.gif" width="100%" alt="sunlight through an autumn forest"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4eThpdDZxYTJndnQ2bDNxcTBqamVyeTJvN2d1M253bzdpYjdibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU97uV3UyP0ly/giphy.gif" width="62%" alt="sunlight through an autumn forest"/>
 </p>
 
 <br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e07b1f,50:f6a23c,100:e07b1f&height=3&section=header" width="70%" alt=""/>
+</p>
 
 <!-- ───────────────────────────  CONNECT WITH ME  ────────────────────────── -->
 
@@ -70,9 +78,17 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e07b1f,50:f6a23c,100:e07b1f&height=3&section=header" width="70%" alt=""/>
+</p>
+
 <!-- ──────────────────────────  LANGUAGES & TOOLS  ───────────────────────── -->
 
 ### 🛠️ Languages & Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode&theme=dark" alt="my tech stack"/>
+</p>
 
 <p align="center">
   <strong>💻 Languages I Know</strong><br/><br/>
@@ -104,6 +120,10 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e07b1f,50:f6a23c,100:e07b1f&height=3&section=header" width="70%" alt=""/>
+</p>
+
 <!-- ────────────────────────  GITHUB STATS & STREAKS  ────────────────────── -->
 
 ### 📊 GitHub Stats & Streaks
@@ -111,24 +131,20 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C09&title_color=F6A23C&icon_color=F6A23C&text_color=FFE8CC&count_private=true" alt="GitHub Stats"/>
   &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&langs_count=6" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&langs_count=6&count_private=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&theme=tokyonight&hide_border=true&background=0F0C09&stroke=F6A23C&ring=F6A23C&fire=E07B1F&currStreakLabel=F6A23C" alt="Streak Stats"/>
 </p>
 
-<!-- ───────────────────────────  ACTIVITY GRAPH  ─────────────────────────── -->
-
-### 📈 Activity Graph
-
 <p align="center">
-  <img src="https://readme-activity-graph.vercel.app/graph?username=drajj-0011&bg_color=0F0C09&color=F6A23C&line=F6A23C&point=FFE8CC&area_color=F6A23C&area=true&hide_border=true&title_color=F6A23C" alt="Debraj's Activity Graph"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e07b1f,50:f6a23c,100:e07b1f&height=3&section=header" width="70%" alt=""/>
 </p>
 
-<!-- ───────────────────────  CONTRIBUTION SNAKE 🐍  ───────────────────────── -->
+<!-- ─────────────────────────  MY CONTRIBUTIONS  ────────────────────────── -->
 
-### 🐍 Contribution Snake
+### 🍂 My Contributions
 
 <p align="center">
   <picture>
@@ -136,6 +152,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake.svg"/>
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://readme-activity-graph.vercel.app/graph?username=drajj-0011&bg_color=0F0C09&color=F6A23C&line=F6A23C&point=FFE8CC&area_color=F6A23C&area=true&hide_border=true&title_color=F6A23C" alt="Debraj's Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e07b1f,50:f6a23c,100:e07b1f&height=3&section=header" width="70%" alt=""/>
 </p>
 
 <!-- ────────────────────────────  DAILY QUOTE  ───────────────────────────── -->
@@ -150,7 +174,7 @@
 
 <div align="center">
   <h3>💛 Thanks for visiting my profile!</h3>
-  
+  <p><em>If something here made you smile, consider leaving a ⭐ on a repo or saying hello — have a wonderful day! ☀️</em></p>
 </div>
 
 <br/>
