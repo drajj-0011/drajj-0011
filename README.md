@@ -1,17 +1,17 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!--        🍂  WELCOME TO MY CORNER OF THE INTERNET  ·  golden hour vibes        -->
+<!--      🍂  Hi there — this is my corner of the internet · golden hour vibes      -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120d07,100:e07b1f&height=120&section=header" width="100%" alt="header banner"/>
-</p>
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wMnk3NjlsNHJpNWNzdmg0NnZ2Znk3bWk2Nmt0cDN3OWkzdGg1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5PGOG2uWtJikU/giphy.gif" width="85%" alt="a calm golden landscape"/>
-</p>
-
-<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F6A23C&center=true&vCenter=true&random=false&width=620&lines=Hey%20there%2C%20I'm%20Debraj%20Dubey%20%F0%9F%91%8B;Coder%20%F0%9F%92%BB;Tech%20Stack%3A%20C%2B%2B%2C%20Python%2C%20Java%2C%20MySQL%2C%20MERN%20%F0%9F%9A%80;Building%20AI%20%26%20Energy%20Analytics%20Solutions%20%E2%9A%A1" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120d07,50:7a3d0c,100:E07B1F&height=175&section=header&text=Hi!%20I'm%20Debraj%20Dubey&fontSize=44&fontColor=FFE8CC&fontAlignY=42&animation=twinkling" width="100%" alt="Hi! I'm Debraj Dubey"/>
+</p>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wMnk3NjlsNHJpNWNzdmg0NnZ2Znk3bWk2Nmt0cDN3OWkzdGg1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5PGOG2uWtJikU/giphy.gif" width="78%" alt="a calm golden landscape"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=F6A23C&center=true&vCenter=true&random=false&width=560&lines=%F0%9F%92%BB+Coder;~%2F%2F+a+never-ending+learner;~%2F%2F+MERN+%2B+Java+%2B+Python+%2B+C%2B%2B;~%2F%2F+AI+%26+energy+analytics;~%2F%2F+coffee+driven+development" alt="coder · learner · builder"/>
 </p>
 
 <p align="center">
@@ -24,10 +24,14 @@
   <a href="https://codeforces.com/profile/raaj_10" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Codeforces-raaj_10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/debraj_10" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8D%B0%20CodeChef-debraj_10-5B45A4?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=FFE8CC&center=true&vCenter=true&random=false&width=460&lines=%F0%9F%8D%82+golden+hour+%2B+clean+code+%2B+curiosity;%F0%9F%8C%BF+learning+something+new+every+day;%F0%9F%92%9B+thanks+for+stopping+by" alt="vibe line"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1300&color=FFE8CC&center=true&vCenter=true&random=false&width=460&lines=%F0%9F%8D%82+golden+hour+%2B+clean+code;%F0%9F%8C%BF+shipping+something+new+every+day;%F0%9F%92%9B+glad+you%27re+here" alt="golden hour + clean code"/>
 </p>
 
 <!-- ─────────────────────────────  ABOUT ME  ───────────────────────────── -->
@@ -39,19 +43,20 @@
 - 🚀 **Current Project:** AI-driven **smart energy analytics & optimization** system for sustainable buildings
 - 💻 **Core Interests:** Data Structures & Algorithms · Full-Stack Development · Artificial Intelligence
 - 🌱 **Currently Learning:** System Design · Cloud Computing · MLOps
+- 🥋 **Practice contests:** [Codeforces](https://codeforces.com/profile/raaj_10) and [CodeChef](https://www.codechef.com/users/debraj_10)
 - 💬 **Ask me about:** C++, Java, Python, JavaScript, React & Backend Development
 - ⚡ **Fun fact:** Code compiles on the first try? Something is definitely suspicious… 😂
 
 <br/>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4eThpdDZxYTJndnQ2bDNxcTBqamVyeTJvN2d1M253bzdpYjdibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU97uV3UyP0ly/giphy.gif" width="62%" alt="sunlight through an autumn forest"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4eThpdDZxYTJndnQ2bDNxcTBqamVyeTJvN2d1M253bzdpYjdibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU97uV3UyP0ly/giphy.gif" width="58%" alt="sunlight through an autumn forest"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e07b1f,50:f6a23c,100:e07b1f&height=3&section=header" width="70%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3&section=header" width="70%" alt=""/>
 </p>
 
 <!-- ───────────────────────────  CONNECT WITH ME  ────────────────────────── -->
@@ -61,6 +66,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/debraj-dubey-66b42032b" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-Debraj_Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/debraj_10" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8D%B0%20CodeChef-debraj_10-5B45A4?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/raaj_10" target="_blank">
@@ -81,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e07b1f,50:f6a23c,100:e07b1f&height=3&section=header" width="70%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3&section=header" width="70%" alt=""/>
 </p>
 
 <!-- ──────────────────────────  LANGUAGES & TOOLS  ───────────────────────── -->
@@ -123,32 +132,16 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e07b1f,50:f6a23c,100:e07b1f&height=3&section=header" width="70%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3&section=header" width="70%" alt=""/>
 </p>
 
-<!-- ────────────────────────  GITHUB STATS & STREAKS  ────────────────────── -->
-
-### 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C09&title_color=F6A23C&icon_color=F6A23C&text_color=FFE8CC&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&langs_count=6&count_private=true" alt="Top Languages"/>
-</p>
-
-
-
-
- 
-
- 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&theme=tokyonight&hide_border=true&background=0F0C09&stroke=F6A23C&ring=F6A23C&fire=E07B1F&currStreakLabel=F6A23C" alt="Streak Stats"/>
-</p>
-
-<!-- ─────────────────────────  MY CONTRIBUTIONS  ────────────────────────── -->
+<!-- ───────────────────────  MY CONTRIBUTIONS 🍂  ────────────────────────── -->
 
 ### 🍂 My Contributions
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drajj-0011&theme=gruvbox_dark" alt="Profile details"/>
+</p>
 
 <p align="center">
   <picture>
@@ -159,11 +152,35 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-activity-graph.vercel.app/graph?username=drajj-0011&bg_color=0F0C09&color=F6A23C&line=F6A23C&point=FFE8CC&area_color=F6A23C&area=true&hide_border=true&title_color=F6A23C" alt="Debraj's Activity Graph"/>
+  <img src="https://readme-activity-graph.vercel.app/graph?username=drajj-0011&bg_color=0F0C09&color=F6A23C&line=F6A23C&point=FFE8CC&area_color=F6A23C&area=true&hide_border=true&title_color=F6A23C" alt="Activity Graph — last 31 days"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e07b1f,50:f6a23c,100:e07b1f&height=3&section=header" width="70%" alt=""/>
+  <img src="https://ghchart.rshah.org/e07b1f/drajj-0011" width="100%" alt="Contribution calendar"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&count_private=true&theme=tokyonight&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&icon_color=F6A23C&hide_border=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&langs_count=8&count_private=true&theme=tokyonight&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&icon_color=F6A23C&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&theme=tokyonight&hide_border=true&background=0F0C09&stroke=F6A23C&ring=F6A23C&fire=E07B1F&currStreakLabel=F6A23C" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drajj-0011&theme=gruvbox_dark" alt="Most used languages in commits"/>
+  &nbsp;
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drajj-0011&theme=gruvbox_dark" alt="Languages across my repositories"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=drajj-0011&theme=gruvbox_dark&utcOffset=5.5" alt="Productive hours"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3&section=header" width="70%" alt=""/>
 </p>
 
 <!-- ────────────────────────────  DAILY QUOTE  ───────────────────────────── -->
@@ -178,11 +195,11 @@
 
 <div align="center">
   <h3>💛 Thanks for visiting my profile!</h3>
-  
+  <p><em>If something here made you smile, consider leaving a ⭐ on a repo or saying hello — have a wonderful day! ☀️</em></p>
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120d07,100:e07b1f&height=120&section=footer" width="100%" alt="footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120d07,100:E07B1F&height=120&section=footer" width="100%" alt="footer banner"/>
 </p>
