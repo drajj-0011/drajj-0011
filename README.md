@@ -1,7 +1,9 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 <!--        🍂  WELCOME TO MY CORNER OF THE INTERNET  ·  golden hour vibes        -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120d07,100:e07b1f&height=120&section=header" width="100%" alt="header banner"/>
+</p>
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wMnk3NjlsNHJpNWNzdmg0NnZ2Znk3bWk2Nmt0cDN3OWkzdGg1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5PGOG2uWtJikU/giphy.gif" width="85%" alt="a calm golden landscape"/>
 </p>
@@ -134,21 +136,11 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&langs_count=6&count_private=true" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&theme=tokyonight&hide_border=true&background=0F0C09&stroke=F6A23C&ring=F6A23C&fire=E07B1F&currStreakLabel=F6A23C" alt="Streak Stats"/>
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e07b1f,50:f6a23c,100:e07b1f&height=3&section=header" width="70%" alt=""/>
-</p>
 
 
  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C09&title_color=F6A23C&icon_color=F6A23C&text_color=FFE8CC&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&langs_count=6" alt="Top Languages"/>
-</p>
+
  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&theme=tokyonight&hide_border=true&background=0F0C09&stroke=F6A23C&ring=F6A23C&fire=E07B1F&currStreakLabel=F6A23C" alt="Streak Stats"/>
@@ -186,7 +178,7 @@
 
 <div align="center">
   <h3>💛 Thanks for visiting my profile!</h3>
-  <p><em>If something here made you smile, consider leaving a ⭐ on a repo or saying hello — have a wonderful day! ☀️</em></p>
+  
 </div>
 
 <br/>
