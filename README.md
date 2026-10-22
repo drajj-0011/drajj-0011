@@ -3,20 +3,22 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120d07,100:e07b1f&height=200&section=header&text=Debraj%20Dubey&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20Undergrad%20%C2%B7%20Coder%20%C2%B7%20Builder&descSize=18&descAlignY=58&descColor=FFE8CC" width="100%" alt="Debraj Dubey banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120d07,100:e07b1f&height=200&section=header&text=Hey%20There!%20I'm%20Debraj%20Dubey%20%F0%9F%8D%82&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=32" width="100%" alt="Hey There! I'm Debraj Dubey"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F6A23C&center=true&vCenter=true&random=false&width=640&lines=Hey+there%2C+I'm+Debraj+Dubey+%F0%9F%91%8B;B.Tech+CSE+%40+Alliance+University%2C+Bengaluru;C%2B%2B+%C2%B7+Python+%C2%B7+Java+%C2%B7+MySQL+%C2%B7+MERN+%F0%9F%9A%80;Building+AI+%26+Energy+Analytics+Solutions+%E2%9A%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F6A23C&center=true&vCenter=true&random=false&width=620&lines=Hey%20there%2C%20I'm%20Debraj%20Dubey%20%F0%9F%91%8B;Coder%20%F0%9F%92%BB;Tech%20Stack%3A%20C%2B%2B%2C%20Python%2C%20Java%2C%20MySQL%2C%20MERN%20%F0%9F%9A%80;Building%20AI%20%26%20Energy%20Analytics%20Solutions%20%E2%9A%A1" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=drajj-0011&label=Profile%20Views&color=E07B1F&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/drajj-0011?tab=followers">
-    <img src="https://img.shields.io/github/followers/drajj-0011?label=Followers&style=for-the-badge&color=F6A23C&labelColor=1c1610" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=drajj-0011&label=Profile%20Views&color=orange&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/drajj-0011?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/drajj-0011?label=Followers&style=for-the-badge&color=yellow" alt="Followers"/>
   </a>
-  <a href="https://codeforces.com/profile/raaj_10">
-    <img src="https://img.shields.io/badge/Codeforces-raaj__10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  &nbsp;
+  <a href="https://codeforces.com/profile/raaj_10" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Codeforces-raaj_10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
 </p>
 
@@ -24,82 +26,142 @@
 
 <!-- ─────────────────────────────  ABOUT ME  ───────────────────────────── -->
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 > *"Every expert was once a beginner who simply refused to give up."*
 
-| | |
-|---|---|
-| 🎓 **Studying** | B.Tech in Computer Science & Engineering · Alliance University (Class of 2028) |
-| 🚀 **Building** | AI-driven **smart energy analytics & optimization** for sustainable buildings |
-| 💻 **Core interests** | Data Structures & Algorithms · Full-Stack Development · Artificial Intelligence |
-| 🌱 **Learning** | System Design · Cloud Computing · MLOps |
-| 💬 **Ask me about** | C++, Java, Python, JavaScript, React & backend development |
-| ⚡ **Fun fact** | Code compiles on the first try? Something is definitely suspicious… 😂 |
+- 🚀 **Current Project:** AI-driven **smart energy analytics & optimization** system for sustainable buildings
+- 💻 **Core Interests:** Data Structures & Algorithms · Full-Stack Development · Artificial Intelligence
+- 🌱 **Currently Learning:** System Design · Cloud Computing · MLOps
+- 💬 **Ask me about:** C++, Java, Python, JavaScript, React & Backend Development
+- ⚡ **Fun fact:** Code compiles on the first try? Something is definitely suspicious… 😂
+
+<br/>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4eThpdDZxYTJndnQ2bDNxcTBqamVyeTJvN2d1M253bzdpYjdibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU97uV3UyP0ly/giphy.gif" width="100%" alt="sunlight through an autumn forest"/>
+</p>
 
 <br/>
 
 <!-- ───────────────────────────  CONNECT WITH ME  ────────────────────────── -->
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/debraj-dubey-66b42032b">
-    <img src="https://img.shields.io/badge/LinkedIn-Debraj_Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/debraj-dubey-66b42032b" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-Debraj_Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://codeforces.com/profile/raaj_10">
-    <img src="https://img.shields.io/badge/Codeforces-raaj__10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  &nbsp;
+  <a href="https://codeforces.com/profile/raaj_10" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Codeforces-raaj_10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://instagram.com/raajj.10">
-    <img src="https://img.shields.io/badge/Instagram-raajj.10-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  &nbsp;
+  <a href="https://instagram.com/raajj.10" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%B8%20Instagram-raajj.10-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:debrajdubey0011@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;
+  <a href="mailto:debrajdubey0011@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Personal_Email-debrajdubey0011@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
+  </a>
+  &nbsp;
+  <a href="mailto:debrajbtech24@ced.alliance.edu.in" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%93%20Academic_Email-Alliance_Univ-003366?style=for-the-badge&logo=google-messages&logoColor=white" alt="Academic Email"/>
   </a>
 </p>
 
 <!-- ──────────────────────────  LANGUAGES & TOOLS  ───────────────────────── -->
 
-## 🛠️ Tech Stack
+### 🛠️ Languages & Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode&perline=7&theme=dark" alt="Tech stack icons"/>
-  </a>
+  <strong>💻 Languages I Know</strong><br/><br/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<p align="center">
+  <strong>🌐 Web & Frameworks</strong><br/><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+<p align="center">
+  <strong>🗄️ Databases</strong><br/><br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<p align="center">
+  <strong>🛠️ Developer Tools</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 <!-- ────────────────────────  GITHUB STATS & STREAKS  ────────────────────── -->
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&hide_border=true&bg_color=0F0C09&title_color=F6A23C&icon_color=F6A23C&text_color=FFE8CC&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&hide_border=true&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&langs_count=6&cache_seconds=86400" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C09&title_color=F6A23C&icon_color=F6A23C&text_color=FFE8CC&count_private=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&langs_count=6" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=drajj-0011&hide_border=true&background=0F0C09&stroke=3b2a14&ring=F6A23C&fire=E07B1F&currStreakNum=FFE8CC&sideNums=FFE8CC&currStreakLabel=F6A23C&sideLabels=F6A23C&dates=B89B7A" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&theme=tokyonight&hide_border=true&background=0F0C09&stroke=F6A23C&ring=F6A23C&fire=E07B1F&currStreakLabel=F6A23C" alt="Streak Stats"/>
 </p>
 
-<!-- ───────────────────────────  ACTIVITY (self-hosted)  ─────────────────────────── -->
+<!-- ──────────────────────────  CONTRIBUTION GRAPH  ───────────────────────── -->
 
-## 📈 Activity
+### 📈 Contribution Graph
 
 <p align="center">
-  <img height="180" src="./profile-summary-card-output/gruvbox/4-productive-time.svg" alt="Productive time"/>
-  <img height="180" src="./profile-summary-card-output/gruvbox/2-most-commit-language.svg" alt="Most commit language"/>
+  <img src="https://ghchart.rshah.org/F6A23C/drajj-0011" width="100%" alt="Debraj's contribution graph"/>
 </p>
+
+### 🌟 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drajj-0011&theme=gruvbox" alt="Debraj's GitHub profile summary"/>
+</p>
+
+<!-- 📈 OPTIONAL — self-hosted activity graph.
+     The public github-readme-activity-graph.vercel.app instance is currently
+     returning "DEPLOYMENT_DISABLED", so it is commented out to avoid a broken image.
+     Deploy your own copy, then uncomment and replace the URL:
+<p align="center">
+  <img src="https://YOUR-ACTIVITY-GRAPH.vercel.app/graph?username=drajj-0011&theme=gruvbox&hide_border=true&area=true&days=40&custom_title=Debraj's%20Activity" alt="activity graph"/>
+</p>
+-->
 
 <!-- ───────────────────────  CONTRIBUTION SNAKE 🐍  ───────────────────────── -->
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
+
+<!-- The snake needs GitHub Actions to run once. Until then GitHub shows a broken
+     image because the "output" branch does not exist yet. See the Snake Setup steps. -->
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
+</p>
+
+<!-- ────────────────────────────  DAILY QUOTE  ───────────────────────────── -->
+
+### 💡 Daily Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote"/>
 </p>
 
 <!-- ─────────────────────────  THANKS FOR VISITING  ──────────────────────── -->
@@ -108,6 +170,8 @@
   <h3>💛 Thanks for visiting my profile!</h3>
   
 </div>
+
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120d07,100:e07b1f&height=120&section=footer" width="100%" alt="footer banner"/>
