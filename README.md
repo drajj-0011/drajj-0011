@@ -142,6 +142,18 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e07b1f,50:f6a23c,100:e07b1f&height=3&section=header" width="70%" alt=""/>
 </p>
 
+
+ 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C09&title_color=F6A23C&icon_color=F6A23C&text_color=FFE8CC&count_private=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&langs_count=6" alt="Top Languages"/>
+</p>
+ 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&theme=tokyonight&hide_border=true&background=0F0C09&stroke=F6A23C&ring=F6A23C&fire=E07B1F&currStreakLabel=F6A23C" alt="Streak Stats"/>
+</p>
+
 <!-- ─────────────────────────  MY CONTRIBUTIONS  ────────────────────────── -->
 
 ### 🍂 My Contributions
