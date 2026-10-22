@@ -1,70 +1,100 @@
-<!-- ANIMATED HEADER BANNER -->
+🌿
+README STUDIO SIMPLE • GHIBLI • CALM
+Minimal aesthetic — as you asked
+Copy README
+Download
+✨ UPDATED AS PER YOUR NOTE — SIMPLE & AESTHETIC
+Clean, quiet & Ghibli-soft
+Removed "Software Developer" & "Competitive Programmer" labels — now it's just Debraj Dubey, coder. One beautiful full-width banner, emoji contacts, HTML/CSS/MySQL added, and colors picked directly from your two GIFs.
+Thanks for visiting my profile 🌿 added in footer.
+
+1 GIF • width 100%
+HTML • CSS • MySQL added
+💼💻📸✉️ emoji contacts
+Banner choice
+pick your 100% width gif
+gif1
+🌧️ Train • Rainy
+gif2
+🍃 Forest • Calm
+Using
+Ghibli Train
+as About Me banner
+🎨 Palette — from your GIFs
+Soft sage, rain-blue & warm paper — no neon, no flashy animations.
+
+#3E5A54
+Deep Moss
+#6B8A7B
+Sage
+#A8C3B9
+Mist
+#E7E0C6
+Paper
+Capsule & badges use
+#6B8A7B
+PERSONALIZE
+GitHub username
+drajj-0011
+Show Stats
+Snake 🐍
+What changed?
+No big animations — only one full-width aesthetic GIF under About Me
+Title is now just your name + coder — humble & real
+Contacts use emojis: 💼 💻 📸 ✉️ 🎓
+Added HTML, CSS, MySQL + skillicons
+Footer says Thanks for visiting! in soft Ghibli gradient
+✨ Keep it calm
+Your README now feels like your GIFs — rainy, soft, paper-textured. No shouting badges, just flat-square muted tones.
+
+Copy
+Download
+Preview
+Raw Markdown
+GitHub-ready • paste it as README.md
+Copy
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Debraj%20Dubey%20👋&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3E5A54,6B8A7B,A8C3B9,E7E0C6&height=170&section=header&text=Hey%20There!%20Im%20Debraj%20Dubey%20👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Coder%20🌿%20•%20Learner%20•%20Explorer&descAlignY=58" />
 </p>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=620&lines=Software+Developer+%F0%9F%92%BB;Competitive+Programmer+%40+Codeforces+%F0%9F%8F%86;Building+AI+%26+Energy+Analytics+Solutions+%E2%9A%A1;Tech+Stack%3A+C%2B%2B%2C+Python%2C+Java%2C+MERN+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6B8A7B&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Debraj%20Dubey+%F0%9F%8C%BF;Coder+%7C+Learner+%7C+Dreamer+✨;DSA+%E2%80%A2+Web+Dev+%E2%80%A2+Curious+Mind+💭;Welcome+to+my+little+corner+of+GitHub+🌧️" alt="Typing SVG" /></a>
 </p>
 
-<!-- PROFILE BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=drajj-0011&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=drajj-0011&label=Profile%20Views&color=6B8A7B&style=flat-square" alt="Profile Views"/>
   &nbsp;
-  <a href="https://github.com/drajj-0011?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/drajj-0011?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  </a>
+  <a href="https://github.com/drajj-0011?tab=followers"><img src="https://img.shields.io/github/followers/drajj-0011?label=Followers&style=flat-square&color=6B8A7B" alt="Followers"/></a>
 </p>
 
 ---
 
-<!-- ABOUT ME SECTION WITH GIF -->
-<img align="right" alt="Coding GIF" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+### 🍃 About Me
 
-### 🧑‍💻 About Me
+- 👋 Hi, I'm **Debraj Dubey** — a coder who loves learning and building small things with care
+- 🌱 Currently exploring **DSA, Web Development, and new technologies**
+- 💡 Interested in **clean code, aesthetic design & problem solving**
+- 🎯 Goal: *grow a little every day* — step by step
+- 🌧️ Vibe: calm mind, late nights, tea & code ☕
+- ⚡ Fun fact: *Code compiles on first try? Something is definitely suspicious.* 😅
 
-- 🚀 **Current Project:** Working on **AI driven smart energy analytics and optimization system for sustainable buildings**
-- 💻 **Core Interests:** Data Structures & Algorithms, Full-Stack Development, Artificial Intelligence
-- 🧠 **Competitive Programming:** Active problem solver on [Codeforces](https://codeforces.com/profile/raaj_10)
-- 💬 **Ask me about:** C++, Java, Python, JavaScript, React, and Backend Development
-- ⚡ **Fun fact:** *Code compiles on the first try? Something is definitely suspicious.* 😂
-
-<br clear="both"/>
+<!-- One aesthetic banner — width 100% as you asked -->
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4eThpdDZxYTJndnQ2bDNxcTBqamVyeTJvN2d1M253bzdpYjdibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU97uV3UyP0ly/giphy.gif" width="100%" style="border-radius:12px;" alt="aesthetic ghibli nature banner" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
 
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/debraj-dubey-66b42032b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Debraj_Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/raaj_10" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-raaj__10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  &nbsp;
-  <!-- Instagram -->
-  <a href="https://instagram.com/raajj.10" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-raajj.10-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<p>
 
-  <br/><br/>
+💼 **LinkedIn:** [Debraj Dubey](https://www.linkedin.com/in/debraj-dubey-66b42032b) &nbsp;&nbsp;
+💻 **Codeforces:** [raaj_10](https://codeforces.com/profile/raaj_10) &nbsp;&nbsp;
+📸 **Instagram:** [@raajj.10](https://instagram.com/raajj.10) &nbsp;&nbsp;
+✉️ **Personal Email:** [debrajdubey0011@gmail.com](mailto:debrajdubey0011@gmail.com) &nbsp;&nbsp;
+🎓 **Academic Email:** [Alliance University](mailto:debrajbtech24@ced.alliance.edu.in)
 
-  <!-- Personal Email -->
-  <a href="mailto:debrajdubey0011@gmail.com">
-    <img src="https://img.shields.io/badge/Personal%20Email-debrajdubey0011@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
-  </a>
-  &nbsp;
-  <!-- University Email -->
-  <a href="mailto:debrajbtech24@ced.alliance.edu.in">
-    <img src="https://img.shields.io/badge/Academic%20Email-Alliance%20Univ-003366?style=for-the-badge&logo=google-messages&logoColor=white" alt="Academic Email"/>
-  </a>
 </p>
 
 ---
@@ -73,66 +103,83 @@
 
 <p align="center">
 
-  <!-- Programming Languages -->
-  <strong>💻 Programming Languages</strong><br/><br/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+**💻 Programming Languages**<br/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- Frontend & Backend -->
-  <strong>🌐 Web & Frameworks</strong><br/><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+**🌐 Web & Frameworks**<br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- Database & Tools -->
-  <strong>🗄️ Database & Developer Tools</strong><br/><br/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+**🗄️ Database & Developer Tools**<br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode&perline=7" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&theme=transparent&hide_border=true&title_color=6B8A7B&icon_color=6B8A7B&text_color=2F3D3A&bg_color=00000000" alt="GitHub Stats"/>
   &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&langs_count=6" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&theme=transparent&hide_border=true&title_color=6B8A7B&text_color=2F3D3A&bg_color=00000000&langs_count=6" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&theme=transparent&hide_border=true&background=00000000&stroke=6B8A7B&ring=6B8A7B&fire=6B8A7B&currStreakLabel=6B8A7B&currStreakNum=2F3D3A&sideNums=2F3D3A&sideLabels=2F3D3A" alt="Streak Stats"/>
 </p>
-
----
 
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drajj-0011&bg_color=0d1117&color=6ad3f7&line=6ad3f7&point=ffffff&area_color=6ad3f7&area=true&hide_border=true" alt="Debraj's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drajj-0011&bg_color=A8C3B900&color=6B8A7B&line=6B8A7B&point=3E5A54&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+> Add the snake once with [Platane/snk](https://github.com/Platane/snk) workflow — it updates automatically.
+
 
 ---
 
-### 💡 Daily Dev Quote
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=Small+steps+every+day+lead+to+big+results+🌱&author=Debraj%20Dubey" alt="Quote"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3E5A54,6B8A7B,A8C3B9,E7E0C6&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20🌿&fontSize=22&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Made%20with%20☕%20%26%20a%20lot%20of%20curiosity%20by%20Debraj%20Dubey&descAlignY=75" />
 </p>
+README.md • 7 KB
+Copy Markdown
+Download
+🌿 Minimal readme for Debraj Dubey — Ghibli rain palette • one banner • humble coder vibe
+Made with calm • not hype
