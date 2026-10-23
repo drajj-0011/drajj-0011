@@ -43,8 +43,8 @@
 - 🚀 **Current Project:** AI-driven **smart energy analytics & optimization** system for sustainable buildings
 - 💻 **Core Interests:** Data Structures & Algorithms · Full-Stack Development · Artificial Intelligence
 - 🌱 **Currently Learning:** System Design · Cloud Computing · MLOps
-- 🥋 **Practice contests:** [Codeforces](https://codeforces.com/profile/raaj_10) and [CodeChef](https://www.codechef.com/users/debraj_10)
-- 💬 **Ask me about:** C++, Java, Python, JavaScript, React & Backend Development
+- 🥋 **Practice contests:** [Codeforces],[HackerRank],[CodeChef],[LeetCode]
+- 💬 **Ask me about:**  C++, C, Java, Python, JavaScript, React & Backend Development
 - ⚡ **Fun fact:** Code compiles on the first try? Something is definitely suspicious… 😂
 
 <br/>
