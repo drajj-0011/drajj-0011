@@ -1,4 +1,4 @@
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+ <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 <!--      🍂  Hi there — this is my corner of the internet · golden hour vibes      -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -200,3 +200,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120d07,100:E07B1F&height=120&section=footer" width="100%" alt="footer banner"/>
 </p>
+
+
+
+Make it the best ... aesthetic and with snanke running and all type of animations if u want ... just decorate it in a cool way  and give me the files which i need to paste there in my repo 
