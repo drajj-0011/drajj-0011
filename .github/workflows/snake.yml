@@ -1,32 +1,32 @@
-name: Generate Snake
+# 🐍 .github/workflows/snake.yml — paste this over your existing file.
+# No need to delete anything: same name, same place, new contents.
+
+name: Generate snake animation
 
 on:
   schedule:
-    # Runs at midnight every day
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 18 * * *"     # every day at 23:30 IST (18:00 UTC)
+  workflow_dispatch:          # adds the "Run workflow" button
   push:
-    branches:
-      - main
+    branches: [main]          # committing this file runs it immediately
+
+permissions:
+  contents: write             # lets the job push to the output branch
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 10
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Render the snake (light + dark, golden hour colors)
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: drajj-0011
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23F6A23C&color_dots=%23271809,%2354300F,%23834A14,%23B3631A,%23F6A23C
 
-      - name: Push to output branch
+      - name: Publish to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
