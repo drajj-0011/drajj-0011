@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wMnk3NjlsNHJpNWNzdmg0NnZ2Znk3bWk2Nmt0cDN3OWkzdGg1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5PGOG2uWtJikU/giphy.gif" width="85%" alt="a calm golden landscape"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wMnk3NjlsNHJpNWNzdmg0NnZ2Znk3bWk2Nmt0cDN3OWkzdGg1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5PGOG2uWtJikU/giphy.gif" width="95%" alt="a calm golden landscape"/>
 </p>
 
 <p align="center">
@@ -41,7 +41,9 @@
 
 > *"Every expert was once a beginner who simply refused to give up."*
 
-- 🚀 **Building** — an AI-driven **smart-energy analytics & optimization** system for sustainable buildings
+- 🚀 **Project** — I Built Smart-campus-maintenance-system01,It enables students to submit and track complaints, staff to manage maintenance tasks, and administrators to assign complaints and monitor their status through a centralized platform.
+                  -I Built AlgoForge, an Interactive AI pathfinding laboratory with A*, Dijkstra, BFS, DFS and Greedy search, procedural mazes, live benchmarks, algorithm analysis, and MongoDB persistence.
+                  -Currently Working on AI-driven **smart-energy analytics & optimization** system for sustainable buildings
 - 🧠 **Into** — Data Structures & Algorithms · Full-Stack Development · Applied AI
 - 🌱 **Learning** — System Design · Cloud Computing · MLOps
 - 🥋 **Training on** — [Codeforces](https://codeforces.com/profile/raaj_10) · [CodeChef](https://www.codechef.com/users/debraj_10) · [LeetCode](https://leetcode.com) · [HackerRank](https://www.hackerrank.com)
@@ -160,29 +162,9 @@
   <img src="https://ghchart.rshah.org/e07b1f/drajj-0011" width="100%" alt="Contribution calendar"/>
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&count_private=true&theme=tokyonight&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&icon_color=F6A23C&hide_border=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&langs_count=8&count_private=true&theme=tokyonight&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&icon_color=F6A23C&hide_border=true" alt="Top Languages"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&theme=tokyonight&hide_border=true&background=0F0C09&stroke=F6A23C&ring=F6A23C&fire=E07B1F&currStreakLabel=F6A23C" alt="Streak Stats"/>
-</p>
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drajj-0011&theme=gruvbox_dark" alt="Most used languages in commits"/>
-  &nbsp;
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drajj-0011&theme=gruvbox_dark" alt="Languages across my repositories"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=drajj-0011&theme=gruvbox_dark&utcOffset=5.5" alt="Productive hours"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3&section=header" width="70%" alt=""/>
-</p>
 
 <!-- ────────────────────────────  DAILY QUOTE  ───────────────────────────── -->
 
