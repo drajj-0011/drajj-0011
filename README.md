@@ -1,123 +1,202 @@
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--   🍂 hi, this is my corner of the internet · golden hour edition   -->
-<!--   🐍 the snake below is fed daily by .github/workflows/snake.yml        -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!--      🍂  Hi there — this is my corner of the internet · golden hour vibes      -->
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120D07,50:7A3D0C,100:E07B1F&height=190&section=header&text=Hi!%20I'm%20Debraj%20Dubey&fontSize=44&fontColor=FFE8CC&fontAlignY=40&animation=twinkling" width="100%" alt="Hi! I'm Debraj Dubey"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120d07,50:7a3d0c,100:E07B1F&height=175&section=header&text=Hi!%20I'm%20Debraj%20Dubey&fontSize=44&fontColor=FFE8CC&fontAlignY=42&animation=twinkling" width="100%" alt="Hi! I'm Debraj Dubey"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=F6A23C&center=true&vCenter=true&width=560&lines=%F0%9F%92%BB%20coder%20%E2%80%94%20curious%20by%20default;%2F%2F%20MERN%20%C2%B7%20Java%20%C2%B7%20Python%20%C2%B7%20C%2B%2B;%2F%2F%20AI%20%C3%97%20energy%20analytics;%2F%2F%20coffee-driven%20development;%F0%9F%8D%82%20shipping%20a%20little%2C%20every%20day" alt="coder · learner · builder"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wMnk3NjlsNHJpNWNzdmg0NnZ2Znk3bWk2Nmt0cDN3OWkzdGg1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5PGOG2uWtJikU/giphy.gif" width="85%" alt="a calm golden landscape"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/drajj-0011"><img src="https://komarev.com/ghpvc/?username=drajj-0011&label=Profile%20Views&color=E07B1F&style=for-the-badge&labelColor=2A1C0D" alt="Profile Views"/></a>
-  &nbsp;
-  <a href="https://github.com/drajj-0011?tab=followers"><img src="https://img.shields.io/github/followers/drajj-0011?label=Followers&style=for-the-badge&color=F6A23C&labelColor=2A1C0D" alt="Followers"/></a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/raaj_10"><img src="https://img.shields.io/badge/🏆_Codeforces-raaj__10-1F8ACB?style=for-the-badge&labelColor=2A1C0D&logo=codeforces&logoColor=white" alt="Codeforces — raaj_10"/></a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/debraj_10"><img src="https://img.shields.io/badge/🍰_CodeChef-debraj__10-5B4638?style=for-the-badge&labelColor=2A1C0D&logo=codechef&logoColor=white" alt="CodeChef — debraj_10"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=F6A23C&center=true&vCenter=true&random=false&width=560&lines=%F0%9F%92%BB+Coder;~%2F%2F+a+never-ending+learner;~%2F%2F+MERN+%2B+Java+%2B+Python+%2B+C%2B%2B;~%2F%2F+AI+%26+energy+analytics;~%2F%2F+coffee+driven+development" alt="coder · learner · builder"/>
 </p>
 
-## 🧑‍💻 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=drajj-0011&label=Profile%20Views&color=orange&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/drajj-0011?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/drajj-0011?label=Followers&style=for-the-badge&color=yellow" alt="Followers"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/raaj_10" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Codeforces-raaj_10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/debraj_10" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8D%B0%20CodeChef-debraj_10-5B45A4?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1300&color=FFE8CC&center=true&vCenter=true&random=false&width=460&lines=%F0%9F%8D%82+golden+hour+%2B+clean+code;%F0%9F%8C%BF+shipping+something+new+every+day;%F0%9F%92%9B+glad+you%27re+here" alt="golden hour + clean code"/>
+</p>
+
+<!-- ─────────────────────────────  ABOUT ME  ───────────────────────────── -->
+
+### 🧑‍💻 About Me
 
 > *"Every expert was once a beginner who simply refused to give up."*
 
-- 🚀 **Building** — an AI-driven **smart-energy analytics & optimization** system for sustainable buildings
-- 🧠 **Into** — Data Structures & Algorithms · Full-Stack Development · Applied AI
-- 🌱 **Learning** — System Design · Cloud Computing · MLOps
-- 🥋 **Training on** — [Codeforces](https://codeforces.com/profile/raaj_10) · [CodeChef](https://www.codechef.com/users/debraj_10) · [LeetCode](https://leetcode.com) · [HackerRank](https://www.hackerrank.com)
-- 💬 **Ask me about** — C · C++ · Java · Python · JavaScript · React · Node.js
-- ⚡ **Fun fact** — if it compiles on the first try, I get suspicious 😄
+- 🚀 **Current Project:** AI-driven **smart energy analytics & optimization** system for sustainable buildings
+- 💻 **Core Interests:** Data Structures & Algorithms · Full-Stack Development · Artificial Intelligence
+- 🌱 **Currently Learning:** System Design · Cloud Computing · MLOps
+- 🥋 **Practice contests:** [Codeforces],[HackerRank],[CodeChef],[LeetCode]
+- 💬 **Ask me about:**  C++, C, Java, Python, JavaScript, React & Backend Development
+- ⚡ **Fun fact:** Code compiles on the first try? Something is definitely suspicious… 😂
+
+<br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3" width="70%" alt=""/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4eThpdDZxYTJndnQ2bDNxcTBqamVyeTJvN2d1M253bzdpYjdibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU97uV3UyP0ly/giphy.gif" width="58%" alt="sunlight through an autumn forest"/>
 </p>
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/debraj-dubey-66b42032b"><img src="https://img.shields.io/badge/🔗_LinkedIn-Debraj_Dubey-0A66C4?style=for-the-badge&labelColor=2A1C0D&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://instagram.com/raajj.10"><img src="https://img.shields.io/badge/📸_Instagram-raajj.10-E4405F?style=for-the-badge&labelColor=2A1C0D&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/raaj_10"><img src="https://img.shields.io/badge/🏆_Codeforces-raaj__10-1F8ACB?style=for-the-badge&labelColor=2A1C0D&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/debraj_10"><img src="https://img.shields.io/badge/🍰_CodeChef-debraj__10-5B4638?style=for-the-badge&labelColor=2A1C0D&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-</p>
-<p align="center">
-  <a href="mailto:debrajdubey0011@gmail.com"><img src="https://img.shields.io/badge/📧_Personal_Email-debrajdubey0011@gmail.com-D14836?style=for-the-badge&labelColor=2A1C0D&logo=gmail&logoColor=white" alt="Personal email"/></a>
-  &nbsp;
-  <a href="mailto:debrajbtech24@ced.alliance.edu.in"><img src="https://img.shields.io/badge/🎓_Academic_Email-Alliance_University-003366?style=for-the-badge&labelColor=2A1C0D&logo=googlescholar&logoColor=white" alt="Academic email"/></a>
-</p>
+<br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3" width="70%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3&section=header" width="70%" alt=""/>
 </p>
 
-## 🛠️ Languages & Tools
+<!-- ───────────────────────────  CONNECT WITH ME  ────────────────────────── -->
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/debraj-dubey-66b42032b" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-Debraj_Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/debraj_10" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8D%B0%20CodeChef-debraj_10-5B45A4?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/raaj_10" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Codeforces-raaj_10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/raajj.10" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%B8%20Instagram-raajj.10-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:debrajdubey0011@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Personal_Email-debrajdubey0011@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
+  </a>
+  &nbsp;
+  <a href="mailto:debrajbtech24@ced.alliance.edu.in" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%93%20Academic_Email-Alliance_Univ-003366?style=for-the-badge&logo=google-messages&logoColor=white" alt="Academic Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3&section=header" width="70%" alt=""/>
+</p>
+
+<!-- ──────────────────────────  LANGUAGES & TOOLS  ───────────────────────── -->
+
+### 🛠️ Languages & Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode&theme=dark" alt="my tech stack"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-advanced-E07B1F?style=for-the-badge&labelColor=2A1C0D&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-DSA-00599C?style=for-the-badge&labelColor=2A1C0D&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-OOP-ED8B00?style=for-the-badge&labelColor=2A1C0D&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-AI%2FML-3776AB?style=for-the-badge&labelColor=2A1C0D&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=for-the-badge&labelColor=2A1C0D&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-frontend-20232A?style=for-the-badge&labelColor=2A1C0D&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-backend-339933?style=for-the-badge&labelColor=2A1C0D&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MySQL-data-4479A1?style=for-the-badge&labelColor=2A1C0D&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-data-47A248?style=for-the-badge&labelColor=2A1C0D&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Git-daily-F05032?style=for-the-badge&labelColor=2A1C0D&logo=git&logoColor=white" alt="Git"/>
+  <strong>💻 Languages I Know</strong><br/><br/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3" width="70%" alt=""/>
+  <strong>🌐 Web & Frameworks</strong><br/><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-## 🍂 Contributions
+<p align="center">
+  <strong>🗄️ Databases</strong><br/><br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-<!-- 🐍 generated daily by .github/workflows/snake.yml → pushed to the output branch -->
+<p align="center">
+  <strong>🛠️ Developer Tools</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3&section=header" width="70%" alt=""/>
+</p>
+
+<!-- ───────────────────────  MY CONTRIBUTIONS 🍂  ────────────────────────── -->
+
+### 🍂 My Contributions
+
+
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution snake — drajj-0011" src="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake.svg" width="100%"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/drajj-0011/drajj-0011/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&count_private=true&hide_border=true&bg_color=120D07&title_color=F6A23C&text_color=FFE8CC&icon_color=E07B1F&ring_color=E07B1F" alt="GitHub stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&langs_count=8&count_private=true&hide_border=true&bg_color=120D07&title_color=F6A23C&text_color=FFE8CC" alt="Top languages"/>
+  <img src="https://readme-activity-graph.vercel.app/graph?username=drajj-0011&bg_color=0F0C09&color=F6A23C&line=F6A23C&point=FFE8CC&area_color=F6A23C&area=true&hide_border=true&title_color=F6A23C" alt="Activity Graph — last 31 days"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&hide_border=true&background=120D07&stroke=3B2A13&ring=E07B1F&fire=F6A23C&currStreakLabel=F6A23C&sideLabels=C7A578&dates=C7A578&currStreakNum=FFE8CC&sideNums=FFE8CC" alt="Streak stats"/>
+  <img src="https://ghchart.rshah.org/e07b1f/drajj-0011" width="100%" alt="Contribution calendar"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-activity-graph.vercel.app/graph?username=drajj-0011&bg_color=120D07&color=F6A23C&line=E07B1F&point=FFE8CC&area_color=E07B1F&area=true&hide_border=true&title_color=F6A23C" width="100%" alt="Activity graph — last 31 days"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&count_private=true&theme=tokyonight&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&icon_color=F6A23C&hide_border=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajj-0011&layout=compact&langs_count=8&count_private=true&theme=tokyonight&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&icon_color=F6A23C&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3" width="70%" alt=""/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drajj-0011&theme=tokyonight&hide_border=true&background=0F0C09&stroke=F6A23C&ring=F6A23C&fire=E07B1F&currStreakLabel=F6A23C" alt="Streak Stats"/>
 </p>
 
-## 💡 Daily Dev Quote
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev quote"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drajj-0011&theme=gruvbox_dark" alt="Most used languages in commits"/>
+  &nbsp;
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drajj-0011&theme=gruvbox_dark" alt="Languages across my repositories"/>
 </p>
 
-<h3 align="center">🍂 Thanks for stopping by — glad you're here 💛</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=drajj-0011&theme=gruvbox_dark&utcOffset=5.5" alt="Productive hours"/>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120D07,100:E07B1F&height=120&section=footer" width="100%" alt="footer wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3&section=header" width="70%" alt=""/>
+</p>
+
+<!-- ────────────────────────────  DAILY QUOTE  ───────────────────────────── -->
+
+### 💡 Daily Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote"/>
+</p>
+
+<!-- ─────────────────────────  THANKS FOR VISITING  ──────────────────────── -->
+
+<div align="center">
+  <h3
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120d07,100:E07B1F&height=120&section=footer" width="100%" alt="footer banner"/>
 </p>
