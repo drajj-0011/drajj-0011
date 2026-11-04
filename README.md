@@ -38,16 +38,19 @@
 
 ### 🧑‍💻 About Me
 
+
 > *"Every expert was once a beginner who simply refused to give up."*
 
-- 🚀 **Current Project:** AI-driven **smart energy analytics & optimization** system for sustainable buildings
-- 💻 **Core Interests:** Data Structures & Algorithms · Full-Stack Development · Artificial Intelligence
-- 🌱 **Currently Learning:** System Design · Cloud Computing · MLOps
-- 🥋 **Practice contests:** [Codeforces],[HackerRank],[CodeChef],[LeetCode]
-- 💬 **Ask me about:**  C++, C, Java, Python, JavaScript, React & Backend Development
-- ⚡ **Fun fact:** Code compiles on the first try? Something is definitely suspicious… 😂
+- 🚀 **Building** — an AI-driven **smart-energy analytics & optimization** system for sustainable buildings
+- 🧠 **Into** — Data Structures & Algorithms · Full-Stack Development · Applied AI
+- 🌱 **Learning** — System Design · Cloud Computing · MLOps
+- 🥋 **Training on** — [Codeforces](https://codeforces.com/profile/raaj_10) · [CodeChef](https://www.codechef.com/users/debraj_10) · [LeetCode](https://leetcode.com) · [HackerRank](https://www.hackerrank.com)
+- 💬 **Ask me about** — C · C++ · Java · Python · JavaScript · React · Node.js
+- ⚡ **Fun fact** — if it compiles on the first try, I get suspicious 😄
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3" width="70%" alt=""/>
+</p>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4eThpdDZxYTJndnQ2bDNxcTBqamVyeTJvN2d1M253bzdpYjdibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU97uV3UyP0ly/giphy.gif" width="58%" alt="sunlight through an autumn forest"/>
