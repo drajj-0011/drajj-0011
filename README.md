@@ -42,8 +42,8 @@
 > *"Every expert was once a beginner who simply refused to give up."*
 
 - 🚀 **Project** — I Built Smart-campus-maintenance-system01,It enables students to submit and track complaints, staff to manage maintenance tasks, and administrators to assign complaints and monitor their status through a centralized platform.
-                  -I Built AlgoForge, an Interactive AI pathfinding laboratory with A*, Dijkstra, BFS, DFS and Greedy search, procedural mazes, live benchmarks, algorithm analysis, and MongoDB persistence.
-                  -Currently Working on AI-driven **smart-energy analytics & optimization** system for sustainable buildings
+- I Built AlgoForge, an Interactive AI pathfinding laboratory with A*, Dijkstra, BFS, DFS and Greedy search, procedural mazes, live benchmarks, algorithm analysis, and MongoDB persistence.
+- Currently Working on AI-driven **smart-energy analytics & optimization** system for sustainable buildings
 - 🧠 **Into** — Data Structures & Algorithms · Full-Stack Development · Applied AI
 - 🌱 **Learning** — System Design · Cloud Computing · MLOps
 - 🥋 **Training on** — [Codeforces](https://codeforces.com/profile/raaj_10) · [CodeChef](https://www.codechef.com/users/debraj_10) · [LeetCode](https://leetcode.com) · [HackerRank](https://www.hackerrank.com)
