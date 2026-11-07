@@ -20,14 +20,6 @@
   <a href="https://github.com/drajj-0011?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/drajj-0011?label=Followers&style=for-the-badge&color=yellow" alt="Followers"/>
   </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/raaj_10" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Codeforces-raaj_10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/debraj_10" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8D%B0%20CodeChef-debraj_10-5B45A4?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
 </p>
 
 <p align="center">
@@ -38,17 +30,13 @@
 
 ### 🧑‍💻 About Me
 
-
 > *"Every expert was once a beginner who simply refused to give up."*
 
-- 🚀 **Project** — I Built Smart-campus-maintenance-system01,It enables students to submit and track complaints, staff to manage maintenance tasks, and administrators to assign complaints and monitor their status through a centralized platform.
-- I Built AlgoForge, an Interactive AI pathfinding laboratory with A*, Dijkstra, BFS, DFS and Greedy search, procedural mazes, live benchmarks, algorithm analysis, and MongoDB persistence.
-- Currently Working on AI-driven **smart-energy analytics & optimization** system for sustainable buildings
+- 🔭 **Currently building** — AI-driven **Smart Energy Analytics & Optimization** for sustainable buildings
+- 🛠️ **Built — Smart Campus Maintenance System** — students submit & track complaints, staff manage tasks, admins assign & monitor — all in one platform
+- 🧬 **Built — AlgoForge** — AI pathfinding lab with A*, Dijkstra, BFS, DFS & Greedy, procedural mazes, live benchmarks & MongoDB
 - 🧠 **Into** — Data Structures & Algorithms · Full-Stack Development · Applied AI
-- 🌱 **Learning** — System Design · Cloud Computing · MLOps
-- 🥋 **Training on** — [Codeforces](https://codeforces.com/profile/raaj_10) · [CodeChef](https://www.codechef.com/users/debraj_10) · [LeetCode](https://leetcode.com) · [HackerRank](https://www.hackerrank.com)
 - 💬 **Ask me about** — C · C++ · Java · Python · JavaScript · React · Node.js
-- ⚡ **Fun fact** — if it compiles on the first try, I get suspicious 😄
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3" width="70%" alt=""/>
@@ -64,76 +52,26 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3&section=header" width="70%" alt=""/>
 </p>
 
-<!-- ───────────────────────────  CONNECT WITH ME  ────────────────────────── -->
+<!-- ──────────────────────────  LANGUAGES  ───────────────────────── -->
 
-### 🌐 Connect With Me
+### 🛠️ Tech Stack — Languages
 
 <p align="center">
-<a href="https://www.linkedin.com/in/debraj-dubey-66b42032b" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-Debraj_Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/debraj_10" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8D%B0%20CodeChef-debraj_10-5B45A4?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/raaj_10" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Codeforces-raaj_10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/raajj.10" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%B8%20Instagram-raajj.10-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="mailto:debrajdubey0011@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Personal_Email-debrajdubey0011@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
-  </a>
-  &nbsp;
-  <a href="mailto:debrajbtech24@ced.alliance.edu.in" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8E%93%20Academic_Email-Alliance_Univ-003366?style=for-the-badge&logo=google-messages&logoColor=white" alt="Academic Email"/>
-  </a>
+  <i>Languages I build with — clean, sharp & focused.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E07B1F,50:F6A23C,100:E07B1F&height=3&section=header" width="70%" alt=""/>
-</p>
-
-<!-- ──────────────────────────  LANGUAGES & TOOLS  ───────────────────────── -->
-
-### 🛠️ Languages & Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode&theme=dark" alt="my tech stack"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css&theme=dark" alt="languages I know"/>
 </p>
 
 <p align="center">
-  <strong>💻 Languages I Know</strong><br/><br/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<p align="center">
-  <strong>🌐 Web & Frameworks</strong><br/><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
-<p align="center">
-  <strong>🗄️ Databases</strong><br/><br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<p align="center">
-  <strong>🛠️ Developer Tools</strong><br/><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 <p align="center">
@@ -143,8 +81,6 @@
 <!-- ───────────────────────  MY CONTRIBUTIONS 🍂  ────────────────────────── -->
 
 ### 🍂 My Contributions
-
-
 
 <p align="center">
   <picture>
@@ -159,12 +95,9 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/e07b1f/drajj-0011" width="100%" alt="Contribution calendar"/>
+  <img src="https://streak-stats.demolab.com/?user=drajj-0011&theme=dark&background=0F0C09&border=E07B1F&stroke=E07B1F&ring=F6A23C&fire=F6A23C&currStreakNum=FFE8CC&sideNums=FFE8CC&currStreakLabel=F6A23C&sideLabels=F6A23C&dates=A89880" width="49%" alt="Daily Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=drajj-0011&show_icons=true&bg_color=0F0C09&title_color=F6A23C&text_color=FFE8CC&icon_color=E07B1F&border_color=E07B1F&include_all_commits=true&count_private=true&cache_seconds=86400" width="49%" alt="Total PRs & Contributions"/>
 </p>
-
-
-
-
 
 <!-- ────────────────────────────  DAILY QUOTE  ───────────────────────────── -->
 
@@ -176,9 +109,13 @@
 
 <!-- ─────────────────────────  THANKS FOR VISITING  ──────────────────────── -->
 
-<div align="center">
-  <h3
-</div>
+### 🤎 Thanks for Visiting
+
+<p align="center">
+  <i>Thanks for stopping by — I'm glad you're here. If something caught your eye, let's build together.</i><br/><br/>
+  🤝 Open to collaborations &nbsp;·&nbsp; ☕ Always up for a good tech chat<br/><br/>
+  <i>Happy coding! ✨</i>
+</p>
 
 <br/>
 
